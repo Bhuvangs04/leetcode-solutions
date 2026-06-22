@@ -1,8 +1,13 @@
 # Maximum Number of Balloons
 
-**Difficulty:** 🟢 Easy
+| Property | Value |
+|---|---|
+| **Difficulty** | 🟢 Easy |
+| **Language** | Java |
+| **Runtime** | 11 ms |
+| **Memory** | 44.1 MB |
 
-**Tags:** `Hash Table` `String` `Counting`
+**Topics:** `Hash Table` `String` `Counting`
 
 ---
 
