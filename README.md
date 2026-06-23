@@ -6,24 +6,23 @@
 
 | Total Solved | Easy | Medium | Hard | 🔥 Streak |
 |:---:|:---:|:---:|:---:|:---:|
-| **2** | 🟢 2 | 🟡 0 | 🔴 0 | 1 day |
+| **1** | 🟢 0 | 🟡 0 | 🔴 1 | 1 day |
 
 ## 🗣️ Languages
 
 | Language | Solutions |
 |---|---|
-| Java | 2 |
+| Java | 1 |
 
 ## 🏷️ Top Topics
 
-`Hash Table` (2) · `Counting` (1) · `String` (1) · `Array` (1)
+`Dynamic Programming` (1) · `Prefix Sum` (1)
 
 ## 📝 Recent Submissions
 
 | # | Problem | Difficulty | Language | Runtime | Date |
 |---|---|---|---|---|---|
-| 1 | [Two Sum](https://github.com/Bhuvangs04/leetcode-solutions/tree/main/0001-two-sum/Java) | 🟢 Easy | Java | 4 ms | Jun 22 |
-| 2 | [Maximum Number of Balloons](https://github.com/Bhuvangs04/leetcode-solutions/tree/main/1189-maximum-number-of-balloons/Java) | 🟢 Easy | Java | 11 ms | Jun 22 |
+| 1 | [Number of ZigZag Arrays I](https://github.com/Bhuvangs04/leetcode-solutions/tree/main/3699-number-of-zigzag-arrays-i/Java) | 🔴 Hard | Java | 345 ms | Jun 23 |
 
 ---
 _⚡ Generated automatically by LeetSync_
